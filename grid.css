@@ -50,9 +50,8 @@ main div {
     grid-area: e;
 }
 
-.but {
-    padding: 4px;
-    background-color: rgb(104, 92, 77);
-    font-weight: 800;
-    width: 10%;
+a {
+    text-align: center;
+    margin-left: 50px;
+    align-items: center;
 }
